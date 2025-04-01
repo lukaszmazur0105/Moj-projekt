@@ -16,5 +16,11 @@ Wyświetla stronę z napisem "Hello, World!
    ```
 
 ## Uruchomienie aplikacji
-```bash
-npm start
+### Za pomocą Python:
+   ```sh
+   python -m http.server 8000
+   ```
+   Następnie otwórz przeglądarkę i przejdź do:
+   ```
+   http://localhost:8000
+   ```
